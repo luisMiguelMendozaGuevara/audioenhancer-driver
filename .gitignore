@@ -1,0 +1,20 @@
+# Salidas de compilacion de Visual Studio / WDK
+x64/
+ARM64/
+Debug/
+Release/
+*.sys
+*.cat
+*.pnf
+*.cer
+*.pvk
+*.pfx
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+
+# Temporales
+*.log
